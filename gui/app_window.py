@@ -1,11 +1,11 @@
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
-from quiz_module import QuizModule
-from alerts import AlertsPage
-from resource_center import ResourceCenterPage
-from interactive_map import InteractiveMapPage
+from safeguard.gui.quiz_module import QuizModule
+from safeguard.gui.alerts import AlertsPage
+from safeguard.gui.resource_center import ResourceCenterPage
+from safeguard.gui.interactive_map import InteractiveMapPage
 from safeguard.core.gps import GPSTracker
-from disaster_slideshow import DisasterSlideshow
+from safeguard.gui.disaster_slideshow import DisasterSlideshow
 
 
 class AppWindow:

@@ -1,4 +1,5 @@
-from gui.app_window import MainWindow
+import ttkbootstrap as ttk
+from gui.app_window import AppWindow
 
 
 def initialize_app():

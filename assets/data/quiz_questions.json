@@ -1,54 +1,154 @@
 {
   "questions": [
     {
-      "question": "What should you do first in case of an earthquake?",
+      "question": "Which natural disaster has the highest potential to disrupt communication networks?",
       "options": [
-        "Run outside immediately",
-        "Take cover under sturdy furniture",
-        "Call emergency services immediately",
-        "Stand near a window"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which of the following items is essential for a disaster preparedness kit?",
-      "options": [
-        "A flashlight",
-        "A pair of sunglasses",
-        "A gaming console",
-        "A microwave oven"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "How much water is recommended per person per day for emergencies?",
-      "options": [
-        "1 liter",
-        "2 liters",
-        "4 liters",
-        "6 liters"
+        "Earthquake",
+        "Hurricane",
+        "Solar Flare",
+        "Flood"
       ],
       "answer": 2
     },
     {
-      "question": "What is the best way to stay informed during a natural disaster?",
+      "question": "What does the term 'storm surge' refer to during hurricanes?",
       "options": [
-        "Listen to the radio",
-        "Check official websites",
-        "Use emergency apps",
+        "Strong winds blowing inland",
+        "Sudden increase in ocean levels",
+        "Rapid temperature drop",
+        "Increase in thunderstorm activity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is duct tape often included in disaster preparedness kits?",
+      "options": [
+        "For securing shelter materials",
+        "For signaling rescuers",
+        "To repair vehicles during evacuation",
+        "To purify water"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the best way to stay safe during a lightning storm?",
+      "options": [
+        "Hide under a tree",
+        "Lie flat on the ground",
+        "Stay inside a car",
+        "Stand near tall objects"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the term 'liquefaction' mean during earthquakes?",
+      "options": [
+        "Softening of soil due to shaking",
+        "Melting of underground rocks",
+        "Formation of new water bodies",
+        "Breaking of ice layers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which animals are known to sense earthquakes before they happen?",
+      "options": [
+        "Cats",
+        "Birds",
+        "Snakes",
+        "Dogs"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the primary reason for using a whistle in disaster situations?",
+      "options": [
+        "To call for help",
+        "To scare away animals",
+        "To signal specific codes",
+        "For self-defense"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In wildfire evacuation, why is it recommended to close all windows and doors but not lock them?",
+      "options": [
+        "To prevent damage from high winds",
+        "To allow firefighters to enter easily",
+        "To reduce smoke damage",
+        "To protect wildlife"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following can cause a tsunami?",
+      "options": [
+        "Hurricanes",
+        "Underwater volcanoes",
+        "Tornadoes",
+        "Forest fires"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How long does it take for floodwaters to recede after a flash flood?",
+      "options": [
+        "Minutes",
+        "Hours to days",
+        "Weeks",
+        "Months"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which safety practice is vital when a chemical spill occurs?",
+      "options": [
+        "Evacuate upwind of the spill",
+        "Flush the area with water",
+        "Cover the spill with sand",
+        "Stay close to identify the chemical"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the 'golden hour' in emergency medical care?",
+      "options": [
+        "The first hour after a patient reaches the hospital",
+        "The first hour after a disaster",
+        "The critical first hour after injury",
+        "The hour before sunset"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the best way to purify water in an emergency?",
+      "options": [
+        "Boil it for at least 1 minute",
+        "Filter it with cloth",
+        "Mix it with salt",
+        "Store it in a clean container"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of these apps are most useful in disaster preparedness?",
+      "options": [
+        "Social media platforms",
+        "Emergency radio apps",
+        "Weather prediction apps",
         "All of the above"
       ],
       "answer": 3
     },
     {
-      "question": "What is the universal emergency number in most countries?",
+      "question": "In disaster zones, why is text messaging preferred over calling?",
       "options": [
-        "112",
-        "911",
-        "999",
-        "101"
+        "It is faster",
+        "It uses less battery",
+        "It works better with overloaded networks",
+        "It can be automated"
       ],
-      "answer": 0
+      "answer": 2
     }
   ]
 }
