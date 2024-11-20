@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What should you do first in case of an earthquake?",
+      "options": [
+        "Run outside immediately",
+        "Take cover under sturdy furniture",
+        "Call emergency services immediately",
+        "Stand near a window"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following items is essential for a disaster preparedness kit?",
+      "options": [
+        "A flashlight",
+        "A pair of sunglasses",
+        "A gaming console",
+        "A microwave oven"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How much water is recommended per person per day for emergencies?",
+      "options": [
+        "1 liter",
+        "2 liters",
+        "4 liters",
+        "6 liters"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the best way to stay informed during a natural disaster?",
+      "options": [
+        "Listen to the radio",
+        "Check official websites",
+        "Use emergency apps",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the universal emergency number in most countries?",
+      "options": [
+        "112",
+        "911",
+        "999",
+        "101"
+      ],
+      "answer": 0
+    }
+  ]
+}

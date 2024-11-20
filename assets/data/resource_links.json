@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "Earthquakes": [
+      "https://www.ready.gov/earthquakes",
+      "https://www.cdc.gov/disasters/earthquakes.html"
+    ],
+    "Floods": [
+      "https://www.ready.gov/floods",
+      "https://www.cdc.gov/disasters/floods.html"
+    ],
+    "Hurricanes": [
+      "https://www.ready.gov/hurricanes",
+      "https://www.cdc.gov/disasters/hurricanes.html"
+    ],
+    "Wildfires": [
+      "https://www.ready.gov/wildfires",
+      "https://www.cdc.gov/disasters/wildfires.html"
+    ],
+    "General Preparedness": [
+      "https://www.ready.gov/kit",
+      "https://www.redcross.org/get-help/how-to-prepare-for-emergencies.html"
+    ]
+  }
+}

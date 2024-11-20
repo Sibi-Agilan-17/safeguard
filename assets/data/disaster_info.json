@@ -1,0 +1,10 @@
+{
+    "instructions": [
+        "Earthquake: Stay indoors and take cover under sturdy furniture. Stay away from windows and heavy objects.",
+        "Flood: Move to higher ground immediately. Avoid walking or driving through floodwaters.",
+        "Fire: Evacuate the building. Use stairs, not elevators. Call emergency services.",
+        "Cyclone: Secure loose objects and windows. Move to a safe room away from glass.",
+        "Tsunami: Move inland or to higher ground immediately upon receiving a warning.",
+        "Pandemic: Follow health advisories. Wash hands frequently and wear a mask."
+    ]
+}
